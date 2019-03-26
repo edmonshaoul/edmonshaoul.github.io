@@ -1,7 +1,12 @@
 p {
     color: blue;
 }
+body {
+    .my-name {
+    font-size: 42px;
+    }
 
-.my-name {
-font-size: 42px;
+    
+    
 }
+
