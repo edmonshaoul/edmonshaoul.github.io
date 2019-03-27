@@ -15,15 +15,17 @@ p {
     font-size: 26px;
     font-weight: bold;
     text-transform: capitalize;
-
 }
 
 .job {
     font-size: 20px;
+    color: blue;
 }
 
 .job-title {
     font-size: 16px;
+    font-style: italic;
+
 }
 
 .job-date {
