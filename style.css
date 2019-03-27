@@ -12,9 +12,22 @@ p {
 }
 
 .section-title {
-    font-size: 32px;
+    font-size: 26px;
     font-weight: bold;
     text-transform: capitalize;
+
+}
+
+.job {
+    font-size: 20px;
+}
+
+.job-title {
+    font-size: 16px;
+}
+
+.job-date {
+
 
 }
 
