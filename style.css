@@ -32,13 +32,15 @@
 }
 
 .experience-container {
-    border-style: solid;
 
 }
 
 .skills-container {
-    border-style: solid;
 
 }
 
+.link-item {
+    text-align: center;
+
+}
 
